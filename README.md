@@ -2,7 +2,7 @@
 
 [![Game](https://img.shields.io/badge/Game-Nuclear%20Option-red.svg)](https://store.steampowered.com/app/2168680/Nuclear_Option/)
 [![Framework](https://img.shields.io/badge/Framework-BepInEx%205-blue.svg)](https://github.com/BepInEx/BepInEx)
-[![Version](https://img.shields.io/badge/Version-4.0.0-green.svg)](https://github.com/Nonze/New-Loadouts/releases)
+[![Version](https://img.shields.io/badge/Version-5.0.0-green.svg)](https://github.com/Nonze/New-Loadouts/releases)
 [![Author](https://img.shields.io/badge/Author-Nonze-purple.svg)](#)
 
 A complete overhaul of the hangar loadout interface and aircraft customization system for **Nuclear Option**. 
